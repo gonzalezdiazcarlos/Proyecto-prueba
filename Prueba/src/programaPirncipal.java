@@ -5,6 +5,7 @@ public class programaPirncipal {
 		// TODO Auto-generated method stub
 		System.out.println("faefaffaefaa");
 
+		System.out.println("hola");
 	}
 
 }
