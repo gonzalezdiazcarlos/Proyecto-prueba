@@ -6,6 +6,8 @@ public class programaPirncipal {
 		System.out.println("faefaffaefaa");
 
 		System.out.println("hola");
+		
+		System.out.println("adios");
 	}
 
 }
